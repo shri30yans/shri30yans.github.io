@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello there, I am Shriyans -aka Shri30yans</h1>
-<h2 align="center">I code</h2>
+<h2 align="center">Hello there, I am Shriyans -aka Shri30yans</h1>
+<h3 align="center">I code</h2>
 
 - 👾 Discord Bot Developer
 - 📖 Learning *stuff*
