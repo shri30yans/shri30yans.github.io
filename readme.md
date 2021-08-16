@@ -27,9 +27,14 @@
 [<img align="left" alt="GitHub" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com/)   
 <br>   
 
-<div>
+<comment>
 [![Shri30yans's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko)](https://github.com/shri30yans/shri30yans)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko)](https://github.com/shri30yans/shri30yan)
+</comment>
+
+<div>
+  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko"/>
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko"/>
 </div>
 
 [website]: https://shri30yans.github.io/
