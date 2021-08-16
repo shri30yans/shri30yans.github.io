@@ -36,6 +36,13 @@
   <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko&layout=compact&hide_border=true"/>
   <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko&hide_border=true"/>
 </div>
+<!-- [Check out my website!](https://issy.dev/) -->
+
+---
+<div>
+  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&count_private=true&include_all_commits=true&theme=merko&hide_border=true"/>
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko&hide_border=true"/>
+</div>
 
 [website]: https://shri30yans.github.io/
 [youtube]: https://www.youtube.com/c/Shri30yansGaming
