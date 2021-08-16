@@ -31,10 +31,10 @@
 [![Shri30yans's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko)](https://github.com/shri30yans/shri30yans)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko)](https://github.com/shri30yans/shri30yan)
 </comment>
-
+---
 <div>
-  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko"/>
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko"/>
+  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko&layout=compact&hide_border=true"/>
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko&hide_border=true"/>
 </div>
 
 [website]: https://shri30yans.github.io/
