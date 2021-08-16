@@ -1,10 +1,10 @@
 <h2 align="center">Hello there, I am Shriyans -aka Shri30yans</h1>
 <h3 align="center">I code</h2>
 
-- 👾 Discord Bot Developer
-- 📖 Learning *stuff*
-- 🐍 Python
-- 🤖 Love tinkering with Arduino and Raspberry Pi
+- Learning to code discord bots.
+- Currently working on a Discord.py Economy Bot
+- Python
+- Love tinkering with Arduino and Raspberry Pi
 
 <br>
 
@@ -27,22 +27,8 @@
 [<img align="left" alt="GitHub" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com/)   
 <br>   
 
-<comment>
-[![Shri30yans's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko)](https://github.com/shri30yans/shri30yans)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko)](https://github.com/shri30yans/shri30yan)
-</comment>
----
-<div>
-  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko&layout=compact&hide_border=true"/>
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko&hide_border=true"/>
-</div>
-<!-- [Check out my website!](https://issy.dev/) -->
-
----
-<div>
-  <img alt="Profile stats" src="https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&count_private=true&include_all_commits=true&theme=merko&hide_border=true"/>
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko&hide_border=true"/>
-</div>
+[![Shri30yans's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri30yans&show_icons=true&theme=merko&hide_border=true)](https://github.com/shri30yans/shri30yans)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri30yans&layout=compact&theme=merko&hide_border=true)](https://github.com/shri30yans/shri30yan)
 
 [website]: https://shri30yans.github.io/
 [youtube]: https://www.youtube.com/c/Shri30yansGaming
